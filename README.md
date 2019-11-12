@@ -1,5 +1,5 @@
 # Time manager
-> Desktop app to plan future events and set many alarms
+Desktop app to plan future events and set many alarms
 
 ## Table of contents
 * [General info](#general-info)
